@@ -1,5 +1,8 @@
 # tbpp-ng
 
+![image](1.PNG)
+![image](2.PNG)
+
 [![Build Status](https://travis-ci.org/martinwu42/tbpp-ng.svg?branch=master)](https://travis-ci.org/martinwu42/tbpp-ng)
 
 计概作业
